@@ -6,4 +6,7 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-testing different header fonts for markdown
+``` javascript
+var myVar = "Hello, world!";
+```
+
